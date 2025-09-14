@@ -1,4 +1,4 @@
-## Hi World👋! I'm Cathh
+## Hello World👋! I'm Cathh
 
 Currently pursuing a degree in Information Technology with a specialization in Web Development at Holy Angel University. Deeply passionate about building responsive websites that bring ideas to life and create meaningful digital experiences. Always eager to learn, explore new technologies, and committed to crafting clean, user-friendly, and impactful web solutions.
 
