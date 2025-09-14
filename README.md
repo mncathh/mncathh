@@ -1,6 +1,6 @@
 ## Hi World👋! I'm Cathh
 
-Currently pursuing a degree in Information Technology with a specialization in Web Development at Holy Angel University. Skilled in front-end technologies and passionate about building responsive websites that transform ideas into interactive digital experiences. Continuously learning, exploring new technologies, and dedicated to creating clean, user-friendly, and impactful web solutions.
+Currently pursuing a degree in Information Technology with a specialization in Web Development at Holy Angel University. Deeply passionate about building responsive websites that bring ideas to life and create meaningful digital experiences. Always eager to learn, explore new technologies, and committed to crafting clean, user-friendly, and impactful web solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/catherine-tyra-laguda-a13287326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tyralaguda@gmail.com) 
