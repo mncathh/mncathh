@@ -10,16 +10,16 @@ Currently pursuing a degree in Information Technology with a specialization in W
 
 ## 📌 Featured Projects:
 🦷 Buencamino Dental Specialist (HTML, CSS, JavaScript) 
-A responsive website project showcasing dental services , designed for accessibility and a clean, user-friendly experience.
+- A responsive website project showcasing dental services , designed for accessibility and a clean, user-friendly experience.
 
 🎬 WATCHFLIX Subscription Management System (Java) 
-A Java console app for managing subscriptions with history, status, and error-handling features.
+- A Java console app for managing subscriptions with history, status, and error-handling features.
 
 🍿Cinema Ticket Management System (Python) 
-This is a Python console app that manages seat bookings, cancellations, availability, and undo actions with unique booking IDs.
+- This is a Python console app that manages seat bookings, cancellations, availability, and undo actions with unique booking IDs.
 
 🎮 Hangman Game (Python) 
-A Python console game where players guess words with hangman ASCII visuals.
+- A Python console game where players guess words with hangman ASCII visuals.
 
 
 
