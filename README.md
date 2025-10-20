@@ -24,6 +24,9 @@ It is an application that allows users to efficiently manage inventory by adding
 🎮 **Hangman Game (Python)**    
 A Python console game where players guess words with hangman ASCII visuals.
 
+💅 **GlamTips (MEVN Application)**    
+GlamTips web application is primarily built using JavaScript across both the frontend and backend, relying on Vue.js for the user interface and Node.js/Express.js to handle server logic and API communications. The application stores all its data, including services, staff, and bookings, in a MongoDB (NoSQL) database.
+
 
 
 
